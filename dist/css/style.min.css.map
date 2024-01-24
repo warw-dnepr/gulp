@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/_header.scss","components/_nav.scss","components/common.scss","_variables.scss"],"names":[],"mappings":"AAAA,wBCCG,aCDH,KACG,MCDM,KDEN,UCDQ","file":"style.min.css","sourcesContent":["header{padding: 10px;}","nav{\r\n   padding: 10px;\r\n}","body{\r\n   color: $primary;\r\n   font-size: $font-size;\r\n}","$primary:#000;\r\n$font-size:10px;"]}
